@@ -8,6 +8,12 @@
 
 ---
 
+**🎓 Education**
+- **B.S. in Software Technology, Konkuk University**
+- **Hyundai AutoEver SW Cloud School (3rd Cohort)**
+
+---
+
 ## 🧭 What I’m aiming for
 - **Scalable Architecture**: 트래픽/데이터가 커져도 안정적으로 확장되는 구조
 - **Reliability (SRE mindset)**: 장애를 줄이고, 터져도 빠르게 복구되는 시스템
