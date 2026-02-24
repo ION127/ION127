@@ -8,7 +8,7 @@
 
 ---
 
-##🎓 Education
+## 🎓 Education
 - **B.S. in Software Technology, Konkuk University**
 - **Hyundai Autoever Mobility SW School (3rd Cohort)**
 
