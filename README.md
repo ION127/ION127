@@ -1,6 +1,6 @@
 # ☁️ Cloud Engineer in Progress | Architecture · Reliability · Automation
 
-안녕하세요. **클라우드 엔지니어/플랫폼 엔지니어** 방향으로 성장 중입니다.  
+안녕하세요. **클라우드 엔지니어/플랫폼 엔지니어** 방향으로 성장 중인 **신중훈**입니다.  
 서비스가 “잘 동작하는 것”을 넘어서 **안정적으로 운영되고, 확장 가능하며, 자동화된 구조**를 만드는 데 관심이 많아요.
 
 - 관심 분야: **Cloud Architecture / Kubernetes / IaC / CI/CD / Observability / SRE**
