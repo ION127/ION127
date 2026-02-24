@@ -17,25 +17,25 @@
 ---
 
 ## 🧰 Tech Stack
-### Cloud / Infra
-- **AWS (learning)** / GCP (interest)
-- **Linux**, Networking (TCP/IP, DNS, Load Balancing)
 
-### Containers / Orchestration
-- **Docker**
-- **Kubernetes** (Deployments, Services, Ingress, HPA, Helm)
+### Cloud / Platform
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-### IaC / Automation
-- **Terraform** (IaC)
-- **GitHub Actions** (CI/CD), scripting
+### IaC / CI/CD
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ### Observability
-- Monitoring & Logging: **Prometheus / Grafana** (learning), **ELK** (interest)
-- Tracing: **OpenTelemetry** (interest)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 ### Backend / Tools
-- **Python** (automation, tooling)
-- Git / GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
