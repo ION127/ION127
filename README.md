@@ -48,5 +48,4 @@
 ---
 
 ## 🤝 Contact
-- GitHub: @your-id
-- Email: your@email.com
+- Email: ion011227@gmail.com
