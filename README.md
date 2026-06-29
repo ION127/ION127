@@ -33,6 +33,9 @@
 ### IaC / CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white)
+
 
 ### Backend / Data
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
