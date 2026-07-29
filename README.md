@@ -29,7 +29,7 @@
 자율주행 택시의 배차와 관제를 다루는 시스템. 차량 Edge에서 올라오는 데이터를 스트리밍으로 받아
 서버가 배차를 판단하고, 인프라 전체를 코드로 재현 가능하게 구성했습니다.
 
-`Kotlin` `Python` `Kafka` `Airflow` `Terraform`
+`Kotlin` `Python` `Kafka` `Terraform`
 
 - **[baro-server](https://github.com/baro-team/baro-server)** — 배차 관제 서버 (Kotlin)
 - **[baro-edge](https://github.com/baro-team/baro-edge)** — 차량 Edge 컴포넌트 (Python)
