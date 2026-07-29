@@ -21,6 +21,30 @@
 
 ---
 
+## 🚀 Projects
+
+### 🚕 [BARO — 자율주행 택시 배차 관제 시스템](https://github.com/baro-team)
+> Hyundai Autoever Mobility SW School Cloud 3기 최종 프로젝트 · 2026.04–06 · 5인 팀 · **Backend / DevOps 담당**
+
+자율주행 택시의 배차와 관제를 다루는 시스템. 차량 Edge에서 올라오는 데이터를 스트리밍으로 받아
+서버가 배차를 판단하고, 인프라 전체를 코드로 재현 가능하게 구성했습니다.
+
+`Kotlin` `Python` `Kafka` `Airflow` `Terraform`
+
+- **[baro-server](https://github.com/baro-team/baro-server)** — 배차 관제 서버 (Kotlin)
+- **[baro-edge](https://github.com/baro-team/baro-edge)** — 차량 Edge 컴포넌트 (Python)
+- **[baro-kafka](https://github.com/baro-team/baro-kafka)** — 메시지 스트리밍 (Kotlin)
+- **[baro-terraform](https://github.com/baro-team/baro-terraform)** — 클라우드 인프라 IaC (HCL)
+- **[airflow-dags-repo](https://github.com/baro-team/airflow-dags-repo)** — 데이터 파이프라인 DAG
+
+---
+
+### 🛰️ [Connected Car Telemetry](https://github.com/sbddjt/Connected-Car-Telemetry)
+> 실시간 커넥티드카 텔레메트리 수집·저장·시각화 플랫폼 (Kubernetes 프로젝트)
+
+**CQRS 패턴**으로 쓰기와 읽기 경로를 분리하고, Kubernetes 위에 안정적으로 배포하는 것을 목표로 한 프로젝트.
+
+
 ## 🧭 What I’m aiming for
 - **Scalable Architecture**: 트래픽/데이터가 커져도 안정적으로 확장되는 구조
 - **Reliability (SRE mindset)**: 장애를 줄이고, 터져도 빠르게 복구되는 시스템
