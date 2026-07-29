@@ -33,9 +33,8 @@
 
 - **[baro-server](https://github.com/baro-team/baro-server)** — 배차 관제 서버 (Kotlin)
 - **[baro-edge](https://github.com/baro-team/baro-edge)** — 차량 Edge 컴포넌트 (Python)
-- **[baro-kafka](https://github.com/baro-team/baro-kafka)** — 메시지 스트리밍 (Kotlin)
 - **[baro-terraform](https://github.com/baro-team/baro-terraform)** — 클라우드 인프라 IaC (HCL)
-- **[airflow-dags-repo](https://github.com/baro-team/airflow-dags-repo)** — 데이터 파이프라인 DAG
+
 
 ---
 
