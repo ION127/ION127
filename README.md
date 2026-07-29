@@ -10,7 +10,14 @@
 
 ## 🎓 Education
 - **B.S. in Software Technology, Konkuk University**
-- **Hyundai Autoever Mobility SW School (3rd Cohort)**
+- **Hyundai Autoever Mobility SW School Cloud(3rd Cohort)**
+
+---
+
+## 🏆 Awards
+
+- **우수 프로젝트상** — 2026.06 · Hyundai Autoever · Hyundai NGV · RAPA
+  Hyundai Developers 차량 데이터 규격 기반 **가상 차량 Edge 텔레메트리 파이프라인** 구축 및 분석
 
 ---
 
